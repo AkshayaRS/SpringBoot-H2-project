@@ -1,0 +1,13 @@
+package com.javaspringbooth2.projectcrudapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProjectCrudApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
